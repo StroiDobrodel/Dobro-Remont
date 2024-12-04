@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+    background-color: #E6E6FA;
+
+   }
+ nav {
+    background-color: orange;
+    padding: 1px;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    
+
+    
+}
+a {
+   font-size: 25px;
+   text-decoration: none; 
+}
+
+header img  {
+    width: 50%;
+    height: 300px;
+    margin-left: 25%;
+    
+   }
+    
+ main img {
+    width: 200px;
+    height: 250px;
+}   
+    
+
+main h1 {
+    font-size: 25px;
+    color: black;
+    text-align: center;
+
+}
+main p {
+    font-size: 25px;
+    color: black;
+    
+}
+
+h1 img {
+    width: 480px;
+    height: 480px;
+}
+.background {
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+footer {
+    text-align: center;
+    font-size: 25px;
+    background-color: snow;
+    border-radius: 50px;
+    
+}
+nav a {
+    color: black;
+}
+
+
+div p {
+    text-align: center;
+    font-size: 25px;
+}
+
+div h1 {
+    text-align: center;
+}
+
+
+
+.photoblock{
+    display: flex;
+    flex-wrap:wrap;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.card{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    outline: 10px solid 
+    
+}
+
+ul {
+    text-align: center;
+    
+}
